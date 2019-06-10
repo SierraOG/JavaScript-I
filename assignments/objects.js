@@ -53,18 +53,24 @@ const intern5 ={
   "email": "adaine5@samsung.com",
   "gender": "F"
 }
+
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
+console.log(intern1.name);
 
 // Kennan's ID
+console.log(intern2.id);
 
 // Keven's email
+console.log(intern3.email);
 
 // Gannie's name
+console.log(intern4.name);
 
 // Antonietta's Gender
+console.log(intern5.gender);
 
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
